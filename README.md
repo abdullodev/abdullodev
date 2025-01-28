@@ -4,14 +4,3 @@
 </h1>
 
 <h3 align="center">Software developer from Uzbekistan</h3>
-
-<br/>
-
-<div align="center">
- 
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
-
-💬 Ask me about **React, Javascript... or anything [here](https://github.com/abdullodev/abdullodev/issues)**
- </div>
